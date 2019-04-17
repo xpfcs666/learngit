@@ -1,2 +1,2 @@
-Git is a disreibuted control system.
-Git is free software
+Git is a disreibute version control system.
+Git is free software distributed under the GPL
